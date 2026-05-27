@@ -41,23 +41,23 @@ The system was evaluated by fifteen (15) survey participants, including project 
 Select a link below to watch how to use each core service of the Caventology application:
 
 * 🎥 **[Demo: Login Page](https://youtu.be/z11qoV4Nvzg?si=7gJX45sGY-TD8RVc)**
-  ![Login Page](Caventology Screenshots/Login.jpeg)
+  ![Login Page](Screenshots/Login.jpeg)
 * 🎥 **[Demo: Home Page](https://youtu.be/ufbXKvAJpeg?si=HQsa8NA-JmE_vFOu)**
-  ![Home Page](Caventology Screenshots/Home.jpeg)
+  ![Home Page](Screenshots/Home.jpeg)
 * 🎥 **[Demo: Source Records Page](https://youtu.be/dFso6Z_yXcY?si=YYVeRPXaB0BEi1v0)**
-  ![Source Records Page](Caventology Screenshots/Source.jpeg)
+  ![Source Records Page](Screenshots/Source.jpeg)
 * 🎥 **[Demo: Source Details Page](https://youtu.be/flOGXwkhISs?si=fZ2sdX2d9N-I2h8C)**
-  ![Source Details Page](Caventology Screenshots/Source Details.jpeg)
+  ![Source Details Page](Screenshots/Source Details.jpeg)
 * 🎥 **[Demo: Isolate Records Page](https://youtu.be/d-jV6FWZXUc?si=pMX8ePPoIFLFT12b)**
-  ![Isolate Records Page](Caventology Screenshots/Isolate.jpeg)
+  ![Isolate Records Page](Screenshots/Isolate.jpeg)
 * 🎥 **[Demo: Isolate Details Page](https://youtu.be/wr6ZyrHu9V0?si=uJqPiHXHcpDnyiGO)**
-  ![Isolate Details Page](Caventology Screenshots/Isolate_Details.jpeg)
+  ![Isolate Details Page](Screenshots/Isolate_Details.jpeg)
 * 🎥 **[Demo: Ontology Lookup Service (OLS) Page](https://youtu.be/fQ5jMQIui3M?si=GnarhdJEFFOsuUqt)**
-  ![OLS Page](Caventology Screenshots/OLS.jpeg)
+  ![OLS Page](Screenshots/OLS.jpeg)
 * 🎥 **[Demo: Ontology Explorer Service (OES) Page](https://youtu.be/w_FTzE7gQG8?si=kwWacETA4LPV8V4T)**
-  ![OES Page](Caventology Screenshots/OES.jpeg)
+  ![OES Page](Screenshots/OES.jpeg)
 * 🎥 **[Demo: Admin Page](https://youtu.be/mQKDn11Uzj4?si=4kKKLaFMMyD_iWKG)**
-  ![Admin Page](Caventology Screenshots/Admin.jpeg)
+  ![Admin Page](Screenshots/Admin.jpeg)
 ---
 
 ## 🏷️ Index Terms
