@@ -77,7 +77,7 @@ Select a link below to watch how to use each core service of the Caventology app
 ## 📚 References
 
 1. **[patel]** S. K. S. Patel and J.-K. Lee, “Plastic Eating Enzymes: A Step Towards Sustainability,” *Indian Journal of Microbiology*, vol. 62, no. 4, pp. 658–661, Sep. 2022, doi: [10.1007/s12088-022-01041-w](https://doi.org/10.1007/s12088-022-01041-w).
-2. **[winn]** Z. Winn, “Turning microbiome research into a force for health,” *MIT News | Massachusetts Institute of Technology*, Jan. 05, 2021. [Link](https://news.mit.edu/2021/microbiome-research-health-0105).
+2. **[winn]** Z. Winn, “Turning microbiome research into a force for health,” *MIT News Massachusetts Institute of Technology*, Jan. 05, 2021. [Link](https://news.mit.edu/2021/microbiome-research-health-0105).
 3. **[alcazar]** S. Alcazar et al., “Cave bats and their habitats in Nug-as and Mt. Lantoy key biodiversity area (KBA), Cebu, Philippines,” vol. 25, pp. 621–637, Jan. 2016.
 4. **[iucn]** IUCN SSC, Ed., “IUCN SSC Guidelines for Minimizing the Negative Impact to Bats and Other Cave Organisms from Guano Harvesting,” Mar. 2014. Available: [PDF Document](https://portals.iucn.org/library/sites/library/files/documents/Rep-2014-002.pdf).
 5. **[deleon]** M. P. De Leon, A-young. Park, A. D. Montecillo, M. A. T. Siringan, A. R. R. Rosana, and S.-G. Kim, “Near-Complete Genome Sequences of *Streptomyces* sp. Strains AC1-42T and AC1-42W, Isolated from Bat Guano from Cabalyorisa Cave, Mabini, Pangasinan, Philippines,” *Microbiology Resource Announcements*, vol. 7, no. 7, Aug. 2018, doi: [10.1128/mra.00904-18](https://doi.org/10.1128/mra.00904-18).
