@@ -1,4 +1,6 @@
-![Caventology](Caventology_logo.png)
+<div align="center">
+  <img src="Caventology_logo.png" alt="Caventology" width="500">
+</div>
 # An Ontology-Guided Approach for Enhanced Documentation of Cave Microbial Culture Collections
 
 ## 📌 Overview
