@@ -1,2 +1,5 @@
-# caventology-journal
-Online repo for public Caventology project files
+# An Ontology-Guided Approach for Enhanced Documentation of Cave Microbial Culture Collections
+
+**Inconsistent documentation** limits the scientific value of cave microbial data by making records **harder** to interpret and compare. Researchers using the _2023 CaveIS platform_ face this problem because it relies on free-text annotations that are prone to ambiguity and inconsistency. This study developed **Caventology**, a web application built on top of the existing cave culture collection information system, by integrating **ontology-based suggestions** for selected annotation fields. It also provides an **Ontology Lookup Service (OLS)** and an **Ontology Explorer Service (OES)** to help users search for ontology terms, view definitions, and examine semantic relationships. Ontology-based suggestions and lookup functions were implemented using the _BioPortal Search API_, while RDF ontology files were parsed using _N3.js_ and visualized with _Cytoscape.js_. Fifteen (15) survey participants composed of project stakeholders and researchers from science-related disciplines evaluated the system using the System Usability Scale, yielding a mean score of **79**. Feedback and results show that Caventology offers a practical, ontology-guided approach to improving the consistency and semantic quality of cave microbial data.
+
+Index terms---ontology-guided documentation, cave microbiology, microbial culture collection, BioPortal, semantic web
