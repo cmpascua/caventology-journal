@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="Caventology_logo.png" alt="Caventology" width="500">
-</div>
-
 # An Ontology-Guided Approach for Enhanced Documentation of Cave Microbial Culture Collections
 
 ## 📌 Overview
@@ -11,6 +7,10 @@
 Researchers using the *2023 CaveIS platform* frequently encounter this issue because the system relies heavily on free-text annotations, which are highly prone to ambiguity and inconsistency.
 
 To address this, this study developed **Caventology**—a web application built on top of the existing cave culture collection information system that integrates **ontology-based suggestions** for selected annotation fields to improve the consistency and semantic quality of data.
+
+<div align="center">
+  <img src="Caventology_logo.png" alt="Caventology" width="500">
+</div>
 
 ---
 
