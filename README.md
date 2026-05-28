@@ -33,7 +33,8 @@ The system was evaluated by fifteen (15) survey participants, including project 
 
 ## 📂 Project Resources & Media
 
-* 📄 **[Read the Full Journal Paper](https://cmpascua.github.io/caventology-journal/CMSC190_CJMPascua_journal.pdf)**
+* 📄 **[Read the Journal](https://cmpascua.github.io/caventology-journal/CMSC190_CJMPascua_journal.pdf)**
+* 📄 **[Read the Manuscript](https://cmpascua.github.io/caventology-journal/CMSC190_CJMPascua_manuscript.pdf)**
 * 🖼️ **[View the Project Poster](https://cmpascua.github.io/caventology-journal/CMSC190_CJMPascua_poster.pdf)**
 
 ### 📺 Video Demos by User Action
